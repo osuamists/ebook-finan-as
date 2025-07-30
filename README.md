@@ -16,9 +16,6 @@ Você pode ler o e-book completo clicando no link abaixo:
 ([De Renda Variável para A Liberdade Financeira.pdf](https://github.com/user-attachments/files/21516425/De.Renda.Variavel.para.A.Liberdade.Financeira.pdf)
 )**
 
-*Substitua "nome-do-seu-arquivo.pdf" pelo nome exato do arquivo PDF que você subiu.*
-
----
 
 ## 🤖 Prompts Utilizados
 
