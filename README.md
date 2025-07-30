@@ -13,7 +13,7 @@ Este é um guia prático para trabalhadores autônomos que desejam organizar sua
 
 Você pode ler o e-book completo clicando no link abaixo:
 
-**[➡️ Ler o E-book Agora (PDF)]([De Renda Variável para A Liberdade Financeira.pdf](https://github.com/user-attachments/files/21516425/De.Renda.Variavel.para.A.Liberdade.Financeira.pdf)
+([De Renda Variável para A Liberdade Financeira.pdf](https://github.com/user-attachments/files/21516425/De.Renda.Variavel.para.A.Liberdade.Financeira.pdf)
 )**
 
 *Substitua "nome-do-seu-arquivo.pdf" pelo nome exato do arquivo PDF que você subiu.*
