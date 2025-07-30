@@ -1,0 +1,31 @@
+
+Prompts Iniciais Usados
+
+1. Definição e Estrutura Geral do Projeto:
+
+Estou criando um ebook com I.A e MidJourney. Me ajude a criar esse ebook.
+
+2. Especificação de Tema e Linguagem:
+
+O tema do meu ebook será sobre finanças pessoais e investimentos e o sub tema será Guia Financeiro para Autônomos. Trataremos com uma linguagem mais informal e motivacional. Guie-me a partir daí.
+
+3. Diretriz de Estilo e Função do Assistente/Mentor:
+
+A partir de agora eu quero que você aja como um educador financeiro e mentor para trabalhadores autônomos. Sua linguagem deve ser direta, informal e motivacional, como uma conversa franca. Use expressões como 'botar ordem nessa bagunça', 'chega de passar sufoco' e 'você consegue sim'. O objetivo é empoderar o leitor a tomar controle da sua vida financeira. Evite jargões complicados.
+
+4. Primeira Orientação para Criação de Conteúdo do Ebook:
+
+Agora, vamos escrever o e-book 'De Renda Variável para Liberdade Financeira', iniciando pelo desenvolvimento da capa do nosso ebook.
+
+
+
+Prompts Usados na Criação dos Capítulos e Conteúdo
+
+1. Para Capítulo 1:
+
+Escreva um capítulo sobre organização financeira para autônomos usando linguagem informal e motivacional. Inclua: como separar contas pessoais e profissionais, definir pró-labore, e controle de gastos. Tom: amigável, direto, com exemplos práticos. Comece com uma situação que o leitor se identifique.
+
+2. Para Capítulo 2:
+
+Crie um capítulo sobre planejamento financeiro para renda variável. Use tom motivacional e informal. Explique como calcular renda média, planejar com base no pior cenário, lidar com sazonalidade. Inclua exemplos de profissionais reais como freelancers, consultores, prestadores de serviço.
+
