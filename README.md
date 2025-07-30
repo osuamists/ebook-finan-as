@@ -1,6 +1,6 @@
 # E-book: De Renda Variável para Liberdade Financeira
 
-![Capa do E-book]()<img width="1792" height="2560" alt="Gemini_Generated_Image_jbfa6sjbfa6sjbfa" src="https://github.com/user-attachments/assets/bf4487c3-e566-4816-a8c2-981c61348c38" />
+()<img width="1792" height="2560" alt="Gemini_Generated_Image_jbfa6sjbfa6sjbfa" src="https://github.com/user-attachments/assets/bf4487c3-e566-4816-a8c2-981c61348c38" />
 
 
 ## Sobre o Projeto
